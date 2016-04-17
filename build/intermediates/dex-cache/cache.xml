@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4f6c796244b436e36fbd07f558b0771e875deb3b.jar" />
+    </item>
+    <item
+        jar="C:\android studio sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-26a09fe4f13094e476fc0d9e43ae8896f5e5f90f.jar" />
+    </item>
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\classes-b84e84ff95ea377059bc8c5cce2fa23ba67b2eb7.jar" />
+    </item>
+    <item
+        jar="C:\android studio sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-26a09fe4f13094e476fc0d9e43ae8896f5e5f90f.jar" />
+    </item>
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\classes-ad9c38db13f294d86e6b35d85fd8478424d603e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4f6c796244b436e36fbd07f558b0771e875deb3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\classes-ad9c38db13f294d86e6b35d85fd8478424d603e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\khagendra\FinomenaGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\khagendra\FinomenaGame\app\build\intermediates\pre-dexed\debug\classes-b84e84ff95ea377059bc8c5cce2fa23ba67b2eb7.jar" />
+    </item>
+
+</items>
