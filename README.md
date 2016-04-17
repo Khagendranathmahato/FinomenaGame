@@ -1,11 +1,11 @@
 # FinomenaGame
-How to install the game:
-STEP1: Import the project to "Android Studio".
-STEP2: Run the project.
-STEP3: In your workspace, inside your project, the apk can be located at app/build/outputs
-STEP3: Install the apk. play and enjoy.
-
-
+How to install the game: <br />
+STEP1: Import the project to "Android Studio". <br />
+STEP2: Run the project.<br />
+STEP3: In your workspace, inside your project, the apk can be located at app/build/outputs<br />
+STEP3: Install the apk. play and enjoy.<br />
+<br />
+<br />
 How to play the game:
 1. The first page has three fields. The upper two are for the name of the players playing the game.
 2. The third field requires an integer value 'n' e.g 3.
